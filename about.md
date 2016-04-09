@@ -12,4 +12,4 @@ permalink: /about/
 
 I still hope that someday someone somewhere on internet will find this helpful. I mainly write -- regretfully -- about my life as a student. But I also write about mathematics, informatics, history, the sciences and philosophy. I believe in the empirical.
 
-**credits:** The picture in the circle is by **Devis Grebu**, a romanian artist I like.
+**credits:** The picture in the circle is by **Devis Grebu**, a romanian artist 
