@@ -2,7 +2,7 @@
 layout: page
 title: hello world
 description: bullshit shot for ego
-quote: "I struggle. I live." (lamb)
+quote: "I struggle. I live."
 permalink: /about/
 ---
 
